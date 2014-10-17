@@ -1,0 +1,23 @@
+{
+  "name": "sparadrap",
+  "version": "0.0.1",
+  "main": "sparadrap.js",
+  "description": "Sparadrap.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caedes/sparadrap.git"
+  },
+  "contributors": [
+    {
+      "name" : "caedes"
+    },
+    {
+      "name" : "Calyhre"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caedes/sparadrap/issues"
+  },
+  "homepage": "https://github.com/caedes/sparadrap"
+}
