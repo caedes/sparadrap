@@ -1,5 +1,14 @@
 # Sparadrap.js
 
+## What's Sparadrap.js?
+
+**Sparadrap.js** will log some bullshit words on your console
+when catching errors.
+
+## Why Sparadrap.js?
+
+Fot the LOL!
+
 ## Contributors
 
 [Contributors](https://github.com/caedes/sparadrap/graphs/contributors)
